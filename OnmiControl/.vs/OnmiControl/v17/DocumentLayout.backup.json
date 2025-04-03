@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cs\\OnmiControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F54CE-EBEE-4212-A068-83B0EDA7B0BB}|OnmiControl\\OnmiControl.csproj|d:\\cs\\onmicontrol\\onmicontrol\\taskscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD0F54CE-EBEE-4212-A068-83B0EDA7B0BB}|OnmiControl\\OnmiControl.csproj|solutionrelative:onmicontrol\\taskscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F54CE-EBEE-4212-A068-83B0EDA7B0BB}|OnmiControl\\OnmiControl.csproj|d:\\cs\\onmicontrol\\onmicontrol\\taskscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F54CE-EBEE-4212-A068-83B0EDA7B0BB}|OnmiControl\\OnmiControl.csproj|solutionrelative:onmicontrol\\taskscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F54CE-EBEE-4212-A068-83B0EDA7B0BB}|OnmiControl\\OnmiControl.csproj|d:\\cs\\onmicontrol\\onmicontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F54CE-EBEE-4212-A068-83B0EDA7B0BB}|OnmiControl\\OnmiControl.csproj|solutionrelative:onmicontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F54CE-EBEE-4212-A068-83B0EDA7B0BB}|OnmiControl\\OnmiControl.csproj|D:\\cs\\OnmiControl\\onmicontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD0F54CE-EBEE-4212-A068-83B0EDA7B0BB}|OnmiControl\\OnmiControl.csproj|solutionrelative:onmicontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F54CE-EBEE-4212-A068-83B0EDA7B0BB}|OnmiControl\\OnmiControl.csproj|d:\\cs\\onmicontrol\\onmicontrol\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F54CE-EBEE-4212-A068-83B0EDA7B0BB}|OnmiControl\\OnmiControl.csproj|solutionrelative:onmicontrol\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F54CE-EBEE-4212-A068-83B0EDA7B0BB}|OnmiControl\\OnmiControl.csproj|d:\\cs\\onmicontrol\\onmicontrol\\calendarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD0F54CE-EBEE-4212-A068-83B0EDA7B0BB}|OnmiControl\\OnmiControl.csproj|solutionrelative:onmicontrol\\calendarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F54CE-EBEE-4212-A068-83B0EDA7B0BB}|OnmiControl\\OnmiControl.csproj|d:\\cs\\onmicontrol\\onmicontrol\\calendarcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F54CE-EBEE-4212-A068-83B0EDA7B0BB}|OnmiControl\\OnmiControl.csproj|solutionrelative:onmicontrol\\calendarcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0F54CE-EBEE-4212-A068-83B0EDA7B0BB}|OnmiControl\\OnmiControl.csproj|d:\\cs\\onmicontrol\\onmicontrol\\calendarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0F54CE-EBEE-4212-A068-83B0EDA7B0BB}|OnmiControl\\OnmiControl.csproj|solutionrelative:onmicontrol\\calendarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\cs\\OnmiControl\\OnmiControl\\Form1.cs",
+              "RelativeDocumentMoniker": "OnmiControl\\Form1.cs",
+              "ToolTip": "D:\\cs\\OnmiControl\\OnmiControl\\Form1.cs",
+              "RelativeToolTip": "OnmiControl\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:03:42.808Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TasksControl.cs",
+              "DocumentMoniker": "D:\\cs\\OnmiControl\\OnmiControl\\TasksControl.cs",
+              "RelativeDocumentMoniker": "OnmiControl\\TasksControl.cs",
+              "ToolTip": "D:\\cs\\OnmiControl\\OnmiControl\\TasksControl.cs*",
+              "RelativeToolTip": "OnmiControl\\TasksControl.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwEYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:50:29.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksControl.cs [Design]",
+              "DocumentMoniker": "D:\\cs\\OnmiControl\\OnmiControl\\TasksControl.cs",
+              "RelativeDocumentMoniker": "OnmiControl\\TasksControl.cs",
+              "ToolTip": "D:\\cs\\OnmiControl\\OnmiControl\\TasksControl.cs [Design]*",
+              "RelativeToolTip": "OnmiControl\\TasksControl.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:31:18.268Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalendarControl.cs",
+              "DocumentMoniker": "D:\\cs\\OnmiControl\\OnmiControl\\CalendarControl.cs",
+              "RelativeDocumentMoniker": "OnmiControl\\CalendarControl.cs",
+              "ToolTip": "D:\\cs\\OnmiControl\\OnmiControl\\CalendarControl.cs",
+              "RelativeToolTip": "OnmiControl\\CalendarControl.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:56:43.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalendarControl.Designer.cs",
+              "DocumentMoniker": "D:\\cs\\OnmiControl\\OnmiControl\\CalendarControl.Designer.cs",
+              "RelativeDocumentMoniker": "OnmiControl\\CalendarControl.Designer.cs",
+              "ToolTip": "D:\\cs\\OnmiControl\\OnmiControl\\CalendarControl.Designer.cs",
+              "RelativeToolTip": "OnmiControl\\CalendarControl.Designer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAD4v3YAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:56:37.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalendarControl.cs [Design]",
+              "DocumentMoniker": "D:\\cs\\OnmiControl\\OnmiControl\\CalendarControl.cs",
+              "RelativeDocumentMoniker": "OnmiControl\\CalendarControl.cs",
+              "ToolTip": "D:\\cs\\OnmiControl\\OnmiControl\\CalendarControl.cs [Design]",
+              "RelativeToolTip": "OnmiControl\\CalendarControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:56:28.657Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\cs\\OnmiControl\\OnmiControl\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "OnmiControl\\Form1.Designer.cs",
+              "ToolTip": "D:\\cs\\OnmiControl\\OnmiControl\\Form1.Designer.cs",
+              "RelativeToolTip": "OnmiControl\\Form1.Designer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwv4kAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:13:44.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\cs\\OnmiControl\\OnmiControl\\Form1.cs",
+              "RelativeDocumentMoniker": "OnmiControl\\Form1.cs",
+              "ToolTip": "D:\\cs\\OnmiControl\\OnmiControl\\Form1.cs [Design]",
+              "RelativeToolTip": "OnmiControl\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:03:04.3Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
