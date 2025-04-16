@@ -59,7 +59,7 @@ namespace TL2
             // Vẽ từng shape trong danh sách
             //foreach (var shape in shapes)
             //{
-            //    shape.Draw(gBitmap);
+            //    shape.Draw(e.Graphics);
             //}
 
             e.Graphics.DrawImageUnscaled(canvas, Point.Empty);
