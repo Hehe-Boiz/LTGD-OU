@@ -35,6 +35,7 @@
             button1 = new Button();
             button2 = new Button();
             button3 = new Button();
+            backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             groupBox1.SuspendLayout();
             SuspendLayout();
             // 
@@ -137,5 +138,6 @@
         private Button button1;
         private Button button2;
         private Button button3;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
